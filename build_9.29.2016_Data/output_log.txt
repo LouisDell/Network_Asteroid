@@ -1,0 +1,106 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     2103 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\gedell\Documents\GitHub\Network_Asteroid\build_9.29.2016_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\gedell\Documents\GitHub\Network_Asteroid\build_9.29.2016_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\gedell\Documents\GitHub\Network_Asteroid\build_9.29.2016_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\gedell\Documents\GitHub\Network_Asteroid\build_9.29.2016_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\gedell\Documents\GitHub\Network_Asteroid\build_9.29.2016_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\gedell\Documents\GitHub\Network_Asteroid\build_9.29.2016_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\gedell\Documents\GitHub\Network_Asteroid\build_9.29.2016_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\gedell\Documents\GitHub\Network_Asteroid\build_9.29.2016_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.248 seconds
+Platform assembly: C:\Users\gedell\Documents\GitHub\Network_Asteroid\build_9.29.2016_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\gedell\Documents\GitHub\Network_Asteroid\build_9.29.2016_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.777046 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 11f0 -> priority: 1 
+MatchMakingClient Create :https://mm.unet.unity3d.com/json/reply/CreateMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 386)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 386)
+
+NetworkLobbyManager no more players for this connection.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.988299 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 883.
+Total: 2.417526 ms (FindLiveObjects: 0.057305 ms CreateObjectMapping: 0.311759 ms MarkObjects: 2.034349 ms  DeleteObjects: 0.013684 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.041455 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 882.
+Total: 2.841759 ms (FindLiveObjects: 0.292942 ms CreateObjectMapping: 0.160797 ms MarkObjects: 2.352095 ms  DeleteObjects: 0.033356 ms)
+
+MatchMakingClient Destroy :https://mm.unet.unity3d.com/json/reply/DestroyMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+MatchMakingClient DropConnection :https://mm.unet.unity3d.com/json/reply/DropConnectionRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.054166 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 680.
+Total: 3.243754 ms (FindLiveObjects: 0.124019 ms CreateObjectMapping: 0.154383 ms MarkObjects: 2.866563 ms  DeleteObjects: 0.096649 ms)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+MatchMakingClient Join :https://mm.unet.unity3d.com/json/reply/JoinMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 386)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 386)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.605130 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 882.
+Total: 2.748958 ms (FindLiveObjects: 0.057305 ms CreateObjectMapping: 0.032074 ms MarkObjects: 2.642045 ms  DeleteObjects: 0.017106 ms)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:52.86.130.215:9999}
+MatchMakingClient DropConnection :https://mm.unet.unity3d.com/json/reply/DropConnectionRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+MatchMakingClient DropConnection :https://mm.unet.unity3d.com/json/reply/DropConnectionRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.834780 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 706.
+Total: 1.064002 ms (FindLiveObjects: 0.037633 ms CreateObjectMapping: 0.033356 ms MarkObjects: 0.958799 ms  DeleteObjects: 0.033784 ms)
+
